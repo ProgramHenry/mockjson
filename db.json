@@ -1,10 +1,8 @@
 {
   "totalcount":3,
   "res":[
-      [
-        {"id":1,"value":"control1"},
+      [{"id":1,"value":"control1"},
         {"id":2,"value":"control2"},
-        {"id":3,"value":"control3"}
-       ]
-     ]
+        {"id":3,"value":"control3"}]
+    ]
 }
